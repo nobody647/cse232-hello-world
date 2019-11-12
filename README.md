@@ -3,3 +3,6 @@
 
 hutuisfuioasdfhziwunhjwrar8t9w45ygtuioernthuaweff7h0r7ft7i
 
+int main(){
+  cout << "this is terrible";
+}
